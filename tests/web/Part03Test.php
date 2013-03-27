@@ -1,6 +1,6 @@
 <?php
 
-// simplex/tests/web/Part02Test.php
+// simplex/tests/web/Part03Test.php
 
 require_once 'PHPUnit2/Framework/TestCase.php';
 
