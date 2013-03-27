@@ -13,4 +13,7 @@ Switch to using the composer autoload file.
 
 Added tests directory with working test.
 
+Part 03
+==============
+Simple front controller with templates in src/pages
 
