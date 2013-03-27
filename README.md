@@ -17,3 +17,7 @@ Part 03
 ==============
 Simple front controller with templates in src/pages
 
+Part 04
+==============
+
+Use Route component.
