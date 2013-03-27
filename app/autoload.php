@@ -2,9 +2,9 @@
 
 // simplex/app/autoload.php
  
-require_once __DIR__.'/../vendor/symfony/class-loader/Symfony/Component/ClassLoader/UniversalClassLoader.php';
+require_once __DIR__.'/../vendor/composer/ClassLoader.php';
+
+use Composer\Autoload\ClassLoader;
  
-use Symfony\Component\ClassLoader\UniversalClassLoader;
- 
-$loader = new UniversalClassLoader();
+$loader = new ClassLoader();
 $loader->register();

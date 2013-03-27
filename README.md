@@ -5,3 +5,12 @@ http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-s
 Use 2.2 components.  Upgrade and freeze at 2.3 when available.
 
 Added app and web folders
+
+Part 02
+==============
+
+Switch to using the composer autoload file.
+
+Added tests directory with working test.
+
+
