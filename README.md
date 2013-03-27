@@ -27,3 +27,11 @@ Part 05
 Add Controllers (aka Actions)
 
 Leap year application
+
+Part 06
+==============
+
+HttpKernel::ControllerResolver added to the mix
+
+src/controllers/LeapYearController06
+

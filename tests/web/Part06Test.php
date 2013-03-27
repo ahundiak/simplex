@@ -1,12 +1,12 @@
 <?php
 
-// simplex/tests/web/Part05Test.php
+// simplex/tests/web/Part06Test.php
 
 require_once 'PHPUnit2/Framework/TestCase.php';
 
-class Part05Test extends PHPUnit2_Framework_TestCase
+class Part06Test extends PHPUnit2_Framework_TestCase
 {
-    protected $front = '/../../web/part05.php';
+    protected $front = '/../../web/part06.php';
     
     public function testNotFound()
     {
